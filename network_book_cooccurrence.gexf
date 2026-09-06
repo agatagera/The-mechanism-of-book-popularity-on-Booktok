@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-09-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id=" " label=" " />
+      <node id="/" label="/" />
+      <node id="N" label="N" />
+      <node id="O" label="O" />
+      <node id="e" label="e" />
+      <node id="h" label="h" />
+      <node id="n" label="n" />
+      <node id="o" label="o" />
+      <node id="r" label="r" />
+      <node id="t" label="t" />
+      <node id="," label="," />
+      <node id=":" label=":" />
+      <node id="A" label="A" />
+      <node id="F" label="F" />
+      <node id="H" label="H" />
+      <node id="I" label="I" />
+      <node id="S" label="S" />
+      <node id="W" label="W" />
+      <node id="a" label="a" />
+      <node id="g" label="g" />
+      <node id="i" label="i" />
+      <node id="l" label="l" />
+      <node id="m" label="m" />
+      <node id="s" label="s" />
+      <node id="u" label="u" />
+      <node id="y" label="y" />
+      <node id="T" label="T" />
+      <node id="M" label="M" />
+      <node id="R" label="R" />
+      <node id="d" label="d" />
+      <node id="z" label="z" />
+      <node id="P" label="P" />
+      <node id="p" label="p" />
+      <node id="C" label="C" />
+      <node id="c" label="c" />
+      <node id="w" label="w" />
+      <node id="ł" label="ł" />
+      <node id="L" label="L" />
+      <node id="B" label="B" />
+      <node id="f" label="f" />
+    </nodes>
+    <edges>
+      <edge source=" " target=" " id="0" weight="61288" />
+      <edge source=" " target="/" id="1" weight="86634" />
+      <edge source=" " target="N" id="2" weight="86634" />
+      <edge source=" " target="O" id="3" weight="86729" />
+      <edge source=" " target="e" id="4" weight="202428" />
+      <edge source=" " target="h" id="5" weight="90100" />
+      <edge source=" " target="n" id="6" weight="106006" />
+      <edge source=" " target="o" id="7" weight="98140" />
+      <edge source=" " target="r" id="8" weight="104840" />
+      <edge source=" " target="t" id="9" weight="90838" />
+      <edge source=" " target="," id="10" weight="9400" />
+      <edge source=" " target=":" id="11" weight="6291" />
+      <edge source=" " target="A" id="12" weight="2969" />
+      <edge source=" " target="F" id="13" weight="4245" />
+      <edge source=" " target="H" id="14" weight="5114" />
+      <edge source=" " target="I" id="15" weight="3815" />
+      <edge source=" " target="S" id="16" weight="12106" />
+      <edge source=" " target="W" id="17" weight="4245" />
+      <edge source=" " target="a" id="18" weight="36241" />
+      <edge source=" " target="g" id="19" weight="5287" />
+      <edge source=" " target="i" id="20" weight="18969" />
+      <edge source=" " target="l" id="21" weight="23528" />
+      <edge source=" " target="m" id="22" weight="17106" />
+      <edge source=" " target="s" id="23" weight="13657" />
+      <edge source=" " target="u" id="24" weight="10313" />
+      <edge source=" " target="y" id="25" weight="15033" />
+      <edge source=" " target="T" id="26" weight="2812" />
+      <edge source=" " target="M" id="27" weight="528" />
+      <edge source=" " target="R" id="28" weight="7705" />
+      <edge source=" " target="d" id="29" weight="7264" />
+      <edge source=" " target="z" id="30" weight="10266" />
+      <edge source=" " target="P" id="31" weight="3592" />
+      <edge source=" " target="p" id="32" weight="6838" />
+      <edge source=" " target="C" id="33" weight="3341" />
+      <edge source=" " target="c" id="34" weight="3246" />
+      <edge source=" " target="w" id="35" weight="3246" />
+      <edge source=" " target="ł" id="36" weight="3246" />
+      <edge source=" " target="L" id="37" weight="3490" />
+      <edge source=" " target="B" id="38" weight="639" />
+      <edge source=" " target="f" id="39" weight="639" />
+      <edge source="/" target="N" id="40" weight="43317" />
+      <edge source="/" target="O" id="41" weight="43317" />
+      <edge source="/" target="e" id="42" weight="86634" />
+      <edge source="/" target="h" id="43" weight="43317" />
+      <edge source="/" target="n" id="44" weight="43317" />
+      <edge source="/" target="o" id="45" weight="43317" />
+      <edge source="/" target="r" id="46" weight="43317" />
+      <edge source="/" target="t" id="47" weight="43317" />
+      <edge source="N" target="O" id="48" weight="43317" />
+      <edge source="N" target="e" id="49" weight="86634" />
+      <edge source="N" target="h" id="50" weight="43317" />
+      <edge source="N" target="n" id="51" weight="43317" />
+      <edge source="N" target="o" id="52" weight="43317" />
+      <edge source="N" target="r" id="53" weight="43317" />
+      <edge source="N" target="t" id="54" weight="43317" />
+      <edge source="O" target="e" id="55" weight="86639" />
+      <edge source="O" target="h" id="56" weight="43343" />
+      <edge source="O" target="n" id="57" weight="43349" />
+      <edge source="O" target="o" id="58" weight="43357" />
+      <edge source="O" target="r" id="59" weight="43372" />
+      <edge source="O" target="t" id="60" weight="43344" />
+      <edge source="O" target="A" id="61" weight="774" />
+      <edge source="O" target="C" id="62" weight="387" />
+      <edge source="O" target="R" id="63" weight="388" />
+      <edge source="O" target="T" id="64" weight="391" />
+      <edge source="O" target="," id="65" weight="31" />
+      <edge source="O" target=":" id="66" weight="29" />
+      <edge source="O" target="F" id="67" weight="26" />
+      <edge source="O" target="S" id="68" weight="29" />
+      <edge source="O" target="W" id="69" weight="26" />
+      <edge source="O" target="a" id="70" weight="30" />
+      <edge source="O" target="g" id="71" weight="26" />
+      <edge source="O" target="i" id="72" weight="27" />
+      <edge source="O" target="m" id="73" weight="66" />
+      <edge source="O" target="u" id="74" weight="55" />
+      <edge source="O" target="y" id="75" weight="33" />
+      <edge source="O" target="M" id="76" weight="1" />
+      <edge source="O" target="d" id="77" weight="1" />
+      <edge source="O" target="z" id="78" weight="1" />
+      <edge source="O" target="B" id="79" weight="4" />
+      <edge source="O" target="f" id="80" weight="4" />
+      <edge source="O" target="s" id="81" weight="4" />
+      <edge source="e" target="e" id="82" weight="49523" />
+      <edge source="e" target="h" id="83" weight="89365" />
+      <edge source="e" target="n" id="84" weight="95512" />
+      <edge source="e" target="o" id="85" weight="93509" />
+      <edge source="e" target="r" id="86" weight="98225" />
+      <edge source="e" target="t" id="87" weight="89053" />
+      <edge source="e" target="," id="88" weight="4842" />
+      <edge source="e" target=":" id="89" weight="3162" />
+      <edge source="e" target="A" id="90" weight="1237" />
+      <edge source="e" target="F" id="91" weight="955" />
+      <edge source="e" target="H" id="92" weight="4597" />
+      <edge source="e" target="I" id="93" weight="949" />
+      <edge source="e" target="S" id="94" weight="7114" />
+      <edge source="e" target="W" id="95" weight="955" />
+      <edge source="e" target="a" id="96" weight="18834" />
+      <edge source="e" target="g" id="97" weight="3105" />
+      <edge source="e" target="i" id="98" weight="15394" />
+      <edge source="e" target="l" id="99" weight="15563" />
+      <edge source="e" target="m" id="100" weight="8935" />
+      <edge source="e" target="s" id="101" weight="10830" />
+      <edge source="e" target="u" id="102" weight="5767" />
+      <edge source="e" target="y" id="103" weight="8561" />
+      <edge source="e" target="T" id="104" weight="2188" />
+      <edge source="e" target="M" id="105" weight="424" />
+      <edge source="e" target="R" id="106" weight="6844" />
+      <edge source="e" target="d" id="107" weight="6229" />
+      <edge source="e" target="z" id="108" weight="6391" />
+      <edge source="e" target="P" id="109" weight="2599" />
+      <edge source="e" target="p" id="110" weight="4588" />
+      <edge source="e" target="C" id="111" weight="1994" />
+      <edge source="e" target="c" id="112" weight="1989" />
+      <edge source="e" target="w" id="113" weight="1989" />
+      <edge source="e" target="ł" id="114" weight="1989" />
+      <edge source="e" target="L" id="115" weight="3816" />
+      <edge source="e" target="B" id="116" weight="311" />
+      <edge source="e" target="f" id="117" weight="311" />
+      <edge source="h" target="n" id="118" weight="44492" />
+      <edge source="h" target="o" id="119" weight="44001" />
+      <edge source="h" target="r" id="120" weight="45589" />
+      <edge source="h" target="t" id="121" weight="43689" />
+      <edge source="h" target="," id="122" weight="626" />
+      <edge source="h" target=":" id="123" weight="431" />
+      <edge source="h" target="A" id="124" weight="320" />
+      <edge source="h" target="F" id="125" weight="612" />
+      <edge source="h" target="H" id="126" weight="1200" />
+      <edge source="h" target="I" id="127" weight="254" />
+      <edge source="h" target="S" id="128" weight="1877" />
+      <edge source="h" target="W" id="129" weight="612" />
+      <edge source="h" target="a" id="130" weight="2697" />
+      <edge source="h" target="g" id="131" weight="648" />
+      <edge source="h" target="i" id="132" weight="3048" />
+      <edge source="h" target="l" id="133" weight="2945" />
+      <edge source="h" target="m" id="134" weight="879" />
+      <edge source="h" target="s" id="135" weight="1219" />
+      <edge source="h" target="u" id="136" weight="804" />
+      <edge source="h" target="y" id="137" weight="733" />
+      <edge source="h" target="C" id="138" weight="33" />
+      <edge source="h" target="R" id="139" weight="70" />
+      <edge source="h" target="T" id="140" weight="53" />
+      <edge source="h" target="M" id="141" weight="7" />
+      <edge source="h" target="d" id="142" weight="36" />
+      <edge source="h" target="z" id="143" weight="28" />
+      <edge source="h" target="L" id="144" weight="22" />
+      <edge source="h" target="P" id="145" weight="15" />
+      <edge source="h" target="c" id="146" weight="7" />
+      <edge source="h" target="p" id="147" weight="22" />
+      <edge source="h" target="w" id="148" weight="7" />
+      <edge source="h" target="ł" id="149" weight="7" />
+      <edge source="h" target="B" id="150" weight="5" />
+      <edge source="h" target="f" id="151" weight="5" />
+      <edge source="n" target="o" id="152" weight="48483" />
+      <edge source="n" target="r" id="153" weight="49857" />
+      <edge source="n" target="t" id="154" weight="45376" />
+      <edge source="n" target="," id="155" weight="3266" />
+      <edge source="n" target=":" id="156" weight="2246" />
+      <edge source="n" target="A" id="157" weight="1410" />
+      <edge source="n" target="F" id="158" weight="2732" />
+      <edge source="n" target="H" id="159" weight="915" />
+      <edge source="n" target="I" id="160" weight="2370" />
+      <edge source="n" target="S" id="161" weight="4405" />
+      <edge source="n" target="W" id="162" weight="2732" />
+      <edge source="n" target="a" id="163" weight="15950" />
+      <edge source="n" target="g" id="164" weight="1810" />
+      <edge source="n" target="i" id="165" weight="6420" />
+      <edge source="n" target="l" id="166" weight="8343" />
+      <edge source="n" target="m" id="167" weight="6075" />
+      <edge source="n" target="n" id="168" weight="2420" />
+      <edge source="n" target="s" id="169" weight="3633" />
+      <edge source="n" target="u" id="170" weight="4279" />
+      <edge source="n" target="y" id="171" weight="4968" />
+      <edge source="n" target="M" id="172" weight="732" />
+      <edge source="n" target="R" id="173" weight="3016" />
+      <edge source="n" target="d" id="174" weight="2278" />
+      <edge source="n" target="z" id="175" weight="3627" />
+      <edge source="n" target="P" id="176" weight="1671" />
+      <edge source="n" target="p" id="177" weight="2636" />
+      <edge source="n" target="C" id="178" weight="997" />
+      <edge source="n" target="c" id="179" weight="965" />
+      <edge source="n" target="w" id="180" weight="965" />
+      <edge source="n" target="ł" id="181" weight="965" />
+      <edge source="n" target="B" id="182" weight="309" />
+      <edge source="n" target="T" id="183" weight="443" />
+      <edge source="n" target="f" id="184" weight="309" />
+      <edge source="n" target="L" id="185" weight="581" />
+      <edge source="o" target="r" id="186" weight="47671" />
+      <edge source="o" target="t" id="187" weight="45125" />
+      <edge source="o" target="," id="188" weight="1451" />
+      <edge source="o" target=":" id="189" weight="966" />
+      <edge source="o" target="A" id="190" weight="733" />
+      <edge source="o" target="F" id="191" weight="761" />
+      <edge source="o" target="H" id="192" weight="2075" />
+      <edge source="o" target="I" id="193" weight="389" />
+      <edge source="o" target="S" id="194" weight="1931" />
+      <edge source="o" target="W" id="195" weight="761" />
+      <edge source="o" target="a" id="196" weight="7294" />
+      <edge source="o" target="g" id="197" weight="2788" />
+      <edge source="o" target="i" id="198" weight="4672" />
+      <edge source="o" target="l" id="199" weight="6979" />
+      <edge source="o" target="m" id="200" weight="4465" />
+      <edge source="o" target="s" id="201" weight="2887" />
+      <edge source="o" target="u" id="202" weight="1626" />
+      <edge source="o" target="y" id="203" weight="5003" />
+      <edge source="o" target="T" id="204" weight="2715" />
+      <edge source="o" target="M" id="205" weight="727" />
+      <edge source="o" target="R" id="206" weight="1300" />
+      <edge source="o" target="d" id="207" weight="1681" />
+      <edge source="o" target="o" id="208" weight="1364" />
+      <edge source="o" target="z" id="209" weight="2854" />
+      <edge source="o" target="C" id="210" weight="749" />
+      <edge source="o" target="P" id="211" weight="288" />
+      <edge source="o" target="c" id="212" weight="709" />
+      <edge source="o" target="p" id="213" weight="997" />
+      <edge source="o" target="w" id="214" weight="709" />
+      <edge source="o" target="ł" id="215" weight="709" />
+      <edge source="o" target="B" id="216" weight="912" />
+      <edge source="o" target="f" id="217" weight="912" />
+      <edge source="o" target="L" id="218" weight="245" />
+      <edge source="r" target="t" id="219" weight="44344" />
+      <edge source="r" target="," id="220" weight="3542" />
+      <edge source="r" target=":" id="221" weight="2527" />
+      <edge source="r" target="A" id="222" weight="1488" />
+      <edge source="r" target="F" id="223" weight="1500" />
+      <edge source="r" target="H" id="224" weight="3718" />
+      <edge source="r" target="I" id="225" weight="1110" />
+      <edge source="r" target="S" id="226" weight="5787" />
+      <edge source="r" target="W" id="227" weight="1500" />
+      <edge source="r" target="a" id="228" weight="14001" />
+      <edge source="r" target="g" id="229" weight="3604" />
+      <edge source="r" target="i" id="230" weight="10040" />
+      <edge source="r" target="l" id="231" weight="13328" />
+      <edge source="r" target="m" id="232" weight="5663" />
+      <edge source="r" target="r" id="233" weight="1738" />
+      <edge source="r" target="s" id="234" weight="3823" />
+      <edge source="r" target="u" id="235" weight="4753" />
+      <edge source="r" target="y" id="236" weight="6333" />
+      <edge source="r" target="T" id="237" weight="1908" />
+      <edge source="r" target="P" id="238" weight="1836" />
+      <edge source="r" target="R" id="239" weight="2727" />
+      <edge source="r" target="p" id="240" weight="2411" />
+      <edge source="r" target="C" id="241" weight="630" />
+      <edge source="r" target="c" id="242" weight="575" />
+      <edge source="r" target="d" id="243" weight="1411" />
+      <edge source="r" target="w" id="244" weight="575" />
+      <edge source="r" target="z" id="245" weight="1787" />
+      <edge source="r" target="ł" id="246" weight="575" />
+      <edge source="r" target="M" id="247" weight="62" />
+      <edge source="r" target="L" id="248" weight="774" />
+      <edge source="r" target="B" id="249" weight="17" />
+      <edge source="r" target="f" id="250" weight="17" />
+      <edge source="t" target="M" id="251" weight="360" />
+      <edge source="t" target="R" id="252" weight="838" />
+      <edge source="t" target="a" id="253" weight="2412" />
+      <edge source="t" target="d" id="254" weight="1220" />
+      <edge source="t" target="i" id="255" weight="1240" />
+      <edge source="t" target="z" id="256" weight="2376" />
+      <edge source="t" target="F" id="257" weight="371" />
+      <edge source="t" target="W" id="258" weight="371" />
+      <edge source="t" target="g" id="259" weight="401" />
+      <edge source="t" target="u" id="260" weight="970" />
+      <edge source="t" target="," id="261" weight="577" />
+      <edge source="t" target=":" id="262" weight="349" />
+      <edge source="t" target="C" id="263" weight="699" />
+      <edge source="t" target="P" id="264" weight="263" />
+      <edge source="t" target="S" id="265" weight="378" />
+      <edge source="t" target="c" id="266" weight="672" />
+      <edge source="t" target="l" id="267" weight="401" />
+      <edge source="t" target="m" id="268" weight="1380" />
+      <edge source="t" target="p" id="269" weight="935" />
+      <edge source="t" target="s" id="270" weight="1551" />
+      <edge source="t" target="w" id="271" weight="672" />
+      <edge source="t" target="y" id="272" weight="1069" />
+      <edge source="t" target="ł" id="273" weight="672" />
+      <edge source="t" target="H" id="274" weight="42" />
+      <edge source="t" target="T" id="275" weight="60" />
+      <edge source="t" target="A" id="276" weight="69" />
+      <edge source="t" target="I" id="277" weight="13" />
+      <edge source="t" target="t" id="278" weight="12" />
+      <edge source="t" target="L" id="279" weight="188" />
+      <edge source="t" target="B" id="280" weight="5" />
+      <edge source="t" target="f" id="281" weight="5" />
+      <edge source="," target="," id="282" weight="430" />
+      <edge source="," target=":" id="283" weight="1514" />
+      <edge source="," target="A" id="284" weight="717" />
+      <edge source="," target="F" id="285" weight="699" />
+      <edge source="," target="H" id="286" weight="713" />
+      <edge source="," target="I" id="287" weight="667" />
+      <edge source="," target="S" id="288" weight="2763" />
+      <edge source="," target="W" id="289" weight="699" />
+      <edge source="," target="a" id="290" weight="6543" />
+      <edge source="," target="g" id="291" weight="806" />
+      <edge source="," target="i" id="292" weight="3283" />
+      <edge source="," target="l" id="293" weight="3507" />
+      <edge source="," target="m" id="294" weight="3543" />
+      <edge source="," target="s" id="295" weight="2185" />
+      <edge source="," target="u" id="296" weight="2174" />
+      <edge source="," target="y" id="297" weight="2789" />
+      <edge source="," target="C" id="298" weight="518" />
+      <edge source="," target="P" id="299" weight="628" />
+      <edge source="," target="R" id="300" weight="1320" />
+      <edge source="," target="c" id="301" weight="487" />
+      <edge source="," target="d" id="302" weight="1148" />
+      <edge source="," target="p" id="303" weight="1115" />
+      <edge source="," target="w" id="304" weight="487" />
+      <edge source="," target="z" id="305" weight="1519" />
+      <edge source="," target="ł" id="306" weight="487" />
+      <edge source="," target="M" id="307" weight="58" />
+      <edge source="," target="T" id="308" weight="164" />
+      <edge source="," target="L" id="309" weight="603" />
+      <edge source="," target="B" id="310" weight="14" />
+      <edge source="," target="f" id="311" weight="14" />
+      <edge source=":" target="A" id="312" weight="532" />
+      <edge source=":" target="F" id="313" weight="509" />
+      <edge source=":" target="H" id="314" weight="484" />
+      <edge source=":" target="I" id="315" weight="479" />
+      <edge source=":" target="S" id="316" weight="1991" />
+      <edge source=":" target="W" id="317" weight="509" />
+      <edge source=":" target="a" id="318" weight="4539" />
+      <edge source=":" target="g" id="319" weight="587" />
+      <edge source=":" target="i" id="320" weight="2228" />
+      <edge source=":" target="l" id="321" weight="2432" />
+      <edge source=":" target="m" id="322" weight="2536" />
+      <edge source=":" target="s" id="323" weight="1365" />
+      <edge source=":" target="u" id="324" weight="1569" />
+      <edge source=":" target="y" id="325" weight="1968" />
+      <edge source=":" target="C" id="326" weight="315" />
+      <edge source=":" target="P" id="327" weight="423" />
+      <edge source=":" target="R" id="328" weight="868" />
+      <edge source=":" target="c" id="329" weight="286" />
+      <edge source=":" target="d" id="330" weight="702" />
+      <edge source=":" target="p" id="331" weight="709" />
+      <edge source=":" target="w" id="332" weight="286" />
+      <edge source=":" target="z" id="333" weight="891" />
+      <edge source=":" target="ł" id="334" weight="286" />
+      <edge source=":" target="M" id="335" weight="33" />
+      <edge source=":" target="T" id="336" weight="121" />
+      <edge source=":" target="L" id="337" weight="383" />
+      <edge source=":" target="B" id="338" weight="9" />
+      <edge source=":" target="f" id="339" weight="9" />
+      <edge source="A" target="F" id="340" weight="400" />
+      <edge source="A" target="H" id="341" weight="274" />
+      <edge source="A" target="I" id="342" weight="348" />
+      <edge source="A" target="S" id="343" weight="1427" />
+      <edge source="A" target="W" id="344" weight="400" />
+      <edge source="A" target="a" id="345" weight="2507" />
+      <edge source="A" target="g" id="346" weight="685" />
+      <edge source="A" target="i" id="347" weight="1246" />
+      <edge source="A" target="l" id="348" weight="1253" />
+      <edge source="A" target="m" id="349" weight="1090" />
+      <edge source="A" target="s" id="350" weight="311" />
+      <edge source="A" target="u" id="351" weight="587" />
+      <edge source="A" target="y" id="352" weight="1183" />
+      <edge source="A" target="A" id="353" weight="387" />
+      <edge source="A" target="C" id="354" weight="784" />
+      <edge source="A" target="R" id="355" weight="799" />
+      <edge source="A" target="T" id="356" weight="788" />
+      <edge source="A" target="M" id="357" weight="7" />
+      <edge source="A" target="d" id="358" weight="32" />
+      <edge source="A" target="z" id="359" weight="37" />
+      <edge source="A" target="L" id="360" weight="15" />
+      <edge source="A" target="P" id="361" weight="3" />
+      <edge source="A" target="p" id="362" weight="13" />
+      <edge source="A" target="c" id="363" weight="10" />
+      <edge source="A" target="w" id="364" weight="10" />
+      <edge source="A" target="ł" id="365" weight="10" />
+      <edge source="A" target="B" id="366" weight="8" />
+      <edge source="A" target="f" id="367" weight="8" />
+      <edge source="F" target="H" id="368" weight="276" />
+      <edge source="F" target="I" id="369" weight="996" />
+      <edge source="F" target="S" id="370" weight="1111" />
+      <edge source="F" target="W" id="371" weight="1354" />
+      <edge source="F" target="a" id="372" weight="4148" />
+      <edge source="F" target="g" id="373" weight="728" />
+      <edge source="F" target="i" id="374" weight="1276" />
+      <edge source="F" target="l" id="375" weight="2575" />
+      <edge source="F" target="m" id="376" weight="1031" />
+      <edge source="F" target="s" id="377" weight="291" />
+      <edge source="F" target="u" id="378" weight="876" />
+      <edge source="F" target="y" id="379" weight="888" />
+      <edge source="F" target="C" id="380" weight="31" />
+      <edge source="F" target="R" id="381" weight="66" />
+      <edge source="F" target="T" id="382" weight="52" />
+      <edge source="F" target="M" id="383" weight="8" />
+      <edge source="F" target="d" id="384" weight="36" />
+      <edge source="F" target="z" id="385" weight="23" />
+      <edge source="F" target="L" id="386" weight="23" />
+      <edge source="F" target="P" id="387" weight="9" />
+      <edge source="F" target="c" id="388" weight="5" />
+      <edge source="F" target="p" id="389" weight="14" />
+      <edge source="F" target="w" id="390" weight="5" />
+      <edge source="F" target="ł" id="391" weight="5" />
+      <edge source="F" target="B" id="392" weight="4" />
+      <edge source="F" target="f" id="393" weight="4" />
+      <edge source="H" target="I" id="394" weight="274" />
+      <edge source="H" target="S" id="395" weight="1956" />
+      <edge source="H" target="W" id="396" weight="276" />
+      <edge source="H" target="a" id="397" weight="4597" />
+      <edge source="H" target="g" id="398" weight="2008" />
+      <edge source="H" target="i" id="399" weight="4506" />
+      <edge source="H" target="l" id="400" weight="8168" />
+      <edge source="H" target="m" id="401" weight="991" />
+      <edge source="H" target="s" id="402" weight="1291" />
+      <edge source="H" target="u" id="403" weight="514" />
+      <edge source="H" target="y" id="404" weight="2511" />
+      <edge source="H" target="T" id="405" weight="1734" />
+      <edge source="H" target="M" id="406" weight="21" />
+      <edge source="H" target="R" id="407" weight="102" />
+      <edge source="H" target="d" id="408" weight="93" />
+      <edge source="H" target="z" id="409" weight="78" />
+      <edge source="H" target="H" id="410" weight="20" />
+      <edge source="H" target="C" id="411" weight="19" />
+      <edge source="H" target="L" id="412" weight="53" />
+      <edge source="H" target="P" id="413" weight="28" />
+      <edge source="H" target="c" id="414" weight="19" />
+      <edge source="H" target="p" id="415" weight="47" />
+      <edge source="H" target="w" id="416" weight="19" />
+      <edge source="H" target="ł" id="417" weight="19" />
+      <edge source="H" target="B" id="418" weight="2" />
+      <edge source="H" target="f" id="419" weight="2" />
+      <edge source="I" target="S" id="420" weight="1081" />
+      <edge source="I" target="W" id="421" weight="996" />
+      <edge source="I" target="a" id="422" weight="4116" />
+      <edge source="I" target="g" id="423" weight="368" />
+      <edge source="I" target="i" id="424" weight="916" />
+      <edge source="I" target="l" id="425" weight="2569" />
+      <edge source="I" target="m" id="426" weight="963" />
+      <edge source="I" target="s" id="427" weight="287" />
+      <edge source="I" target="u" id="428" weight="488" />
+      <edge source="I" target="y" id="429" weight="852" />
+      <edge source="I" target="M" id="430" weight="8" />
+      <edge source="I" target="R" id="431" weight="40" />
+      <edge source="I" target="d" id="432" weight="36" />
+      <edge source="I" target="z" id="433" weight="23" />
+      <edge source="I" target="T" id="434" weight="20" />
+      <edge source="I" target="L" id="435" weight="23" />
+      <edge source="I" target="C" id="436" weight="5" />
+      <edge source="I" target="P" id="437" weight="9" />
+      <edge source="I" target="c" id="438" weight="5" />
+      <edge source="I" target="p" id="439" weight="14" />
+      <edge source="I" target="w" id="440" weight="5" />
+      <edge source="I" target="ł" id="441" weight="5" />
+      <edge source="S" target="S" id="442" weight="1143" />
+      <edge source="S" target="W" id="443" weight="1111" />
+      <edge source="S" target="a" id="444" weight="9651" />
+      <edge source="S" target="g" id="445" weight="1508" />
+      <edge source="S" target="i" id="446" weight="6108" />
+      <edge source="S" target="l" id="447" weight="6624" />
+      <edge source="S" target="m" id="448" weight="4305" />
+      <edge source="S" target="s" id="449" weight="2883" />
+      <edge source="S" target="u" id="450" weight="2462" />
+      <edge source="S" target="y" id="451" weight="3782" />
+      <edge source="S" target="C" id="452" weight="332" />
+      <edge source="S" target="P" id="453" weight="441" />
+      <edge source="S" target="R" id="454" weight="935" />
+      <edge source="S" target="c" id="455" weight="303" />
+      <edge source="S" target="d" id="456" weight="768" />
+      <edge source="S" target="p" id="457" weight="744" />
+      <edge source="S" target="w" id="458" weight="303" />
+      <edge source="S" target="z" id="459" weight="954" />
+      <edge source="S" target="ł" id="460" weight="303" />
+      <edge source="S" target="M" id="461" weight="45" />
+      <edge source="S" target="T" id="462" weight="148" />
+      <edge source="S" target="L" id="463" weight="420" />
+      <edge source="S" target="B" id="464" weight="10" />
+      <edge source="S" target="f" id="465" weight="10" />
+      <edge source="W" target="a" id="466" weight="4148" />
+      <edge source="W" target="g" id="467" weight="728" />
+      <edge source="W" target="i" id="468" weight="1276" />
+      <edge source="W" target="l" id="469" weight="2575" />
+      <edge source="W" target="m" id="470" weight="1031" />
+      <edge source="W" target="s" id="471" weight="291" />
+      <edge source="W" target="u" id="472" weight="876" />
+      <edge source="W" target="y" id="473" weight="888" />
+      <edge source="W" target="C" id="474" weight="31" />
+      <edge source="W" target="R" id="475" weight="66" />
+      <edge source="W" target="T" id="476" weight="52" />
+      <edge source="W" target="M" id="477" weight="8" />
+      <edge source="W" target="d" id="478" weight="36" />
+      <edge source="W" target="z" id="479" weight="23" />
+      <edge source="W" target="L" id="480" weight="23" />
+      <edge source="W" target="P" id="481" weight="9" />
+      <edge source="W" target="c" id="482" weight="5" />
+      <edge source="W" target="p" id="483" weight="14" />
+      <edge source="W" target="w" id="484" weight="5" />
+      <edge source="W" target="ł" id="485" weight="5" />
+      <edge source="W" target="B" id="486" weight="4" />
+      <edge source="W" target="f" id="487" weight="4" />
+      <edge source="a" target="a" id="488" weight="9974" />
+      <edge source="a" target="g" id="489" weight="4411" />
+      <edge source="a" target="i" id="490" weight="13796" />
+      <edge source="a" target="l" id="491" weight="21744" />
+      <edge source="a" target="m" id="492" weight="11030" />
+      <edge source="a" target="s" id="493" weight="7735" />
+      <edge source="a" target="u" id="494" weight="6957" />
+      <edge source="a" target="y" id="495" weight="10855" />
+      <edge source="a" target="T" id="496" weight="1977" />
+      <edge source="a" target="M" id="497" weight="458" />
+      <edge source="a" target="R" id="498" weight="4085" />
+      <edge source="a" target="d" id="499" weight="3591" />
+      <edge source="a" target="z" id="500" weight="6224" />
+      <edge source="a" target="P" id="501" weight="2386" />
+      <edge source="a" target="p" id="502" weight="4308" />
+      <edge source="a" target="C" id="503" weight="1952" />
+      <edge source="a" target="c" id="504" weight="1922" />
+      <edge source="a" target="w" id="505" weight="1922" />
+      <edge source="a" target="ł" id="506" weight="1922" />
+      <edge source="a" target="L" id="507" weight="1211" />
+      <edge source="a" target="B" id="508" weight="15" />
+      <edge source="a" target="f" id="509" weight="15" />
+      <edge source="g" target="i" id="510" weight="3370" />
+      <edge source="g" target="l" id="511" weight="6488" />
+      <edge source="g" target="m" id="512" weight="1206" />
+      <edge source="g" target="s" id="513" weight="383" />
+      <edge source="g" target="u" id="514" weight="963" />
+      <edge source="g" target="y" id="515" weight="2967" />
+      <edge source="g" target="T" id="516" weight="1751" />
+      <edge source="g" target="M" id="517" weight="19" />
+      <edge source="g" target="R" id="518" weight="107" />
+      <edge source="g" target="d" id="519" weight="87" />
+      <edge source="g" target="z" id="520" weight="85" />
+      <edge source="g" target="C" id="521" weight="48" />
+      <edge source="g" target="L" id="522" weight="46" />
+      <edge source="g" target="P" id="523" weight="16" />
+      <edge source="g" target="c" id="524" weight="22" />
+      <edge source="g" target="p" id="525" weight="38" />
+      <edge source="g" target="w" id="526" weight="22" />
+      <edge source="g" target="ł" id="527" weight="22" />
+      <edge source="g" target="g" id="528" weight="8" />
+      <edge source="g" target="B" id="529" weight="5" />
+      <edge source="g" target="f" id="530" weight="5" />
+      <edge source="i" target="i" id="531" weight="2265" />
+      <edge source="i" target="l" id="532" weight="14416" />
+      <edge source="i" target="m" id="533" weight="4964" />
+      <edge source="i" target="s" id="534" weight="5612" />
+      <edge source="i" target="u" id="535" weight="4342" />
+      <edge source="i" target="y" id="536" weight="5736" />
+      <edge source="i" target="T" id="537" weight="1855" />
+      <edge source="i" target="M" id="538" weight="392" />
+      <edge source="i" target="R" id="539" weight="4111" />
+      <edge source="i" target="d" id="540" weight="2818" />
+      <edge source="i" target="z" id="541" weight="1856" />
+      <edge source="i" target="P" id="542" weight="1754" />
+      <edge source="i" target="p" id="543" weight="2242" />
+      <edge source="i" target="C" id="544" weight="515" />
+      <edge source="i" target="c" id="545" weight="488" />
+      <edge source="i" target="w" id="546" weight="488" />
+      <edge source="i" target="ł" id="547" weight="488" />
+      <edge source="i" target="L" id="548" weight="1938" />
+      <edge source="i" target="B" id="549" weight="10" />
+      <edge source="i" target="f" id="550" weight="10" />
+      <edge source="l" target="l" id="551" weight="8653" />
+      <edge source="l" target="m" id="552" weight="5198" />
+      <edge source="l" target="s" id="553" weight="4092" />
+      <edge source="l" target="u" id="554" weight="3907" />
+      <edge source="l" target="y" id="555" weight="9241" />
+      <edge source="l" target="T" id="556" weight="5236" />
+      <edge source="l" target="P" id="557" weight="1469" />
+      <edge source="l" target="R" id="558" weight="2050" />
+      <edge source="l" target="p" id="559" weight="1789" />
+      <edge source="l" target="C" id="560" weight="320" />
+      <edge source="l" target="c" id="561" weight="320" />
+      <edge source="l" target="d" id="562" weight="901" />
+      <edge source="l" target="w" id="563" weight="320" />
+      <edge source="l" target="z" id="564" weight="1035" />
+      <edge source="l" target="ł" id="565" weight="320" />
+      <edge source="l" target="M" id="566" weight="75" />
+      <edge source="l" target="L" id="567" weight="506" />
+      <edge source="l" target="B" id="568" weight="7" />
+      <edge source="l" target="f" id="569" weight="7" />
+      <edge source="m" target="m" id="570" weight="2028" />
+      <edge source="m" target="s" id="571" weight="4850" />
+      <edge source="m" target="u" id="572" weight="3714" />
+      <edge source="m" target="y" id="573" weight="5531" />
+      <edge source="m" target="C" id="574" weight="1300" />
+      <edge source="m" target="P" id="575" weight="1110" />
+      <edge source="m" target="R" id="576" weight="2202" />
+      <edge source="m" target="c" id="577" weight="1234" />
+      <edge source="m" target="d" id="578" weight="2260" />
+      <edge source="m" target="p" id="579" weight="2344" />
+      <edge source="m" target="w" id="580" weight="1234" />
+      <edge source="m" target="z" id="581" weight="3780" />
+      <edge source="m" target="ł" id="582" weight="1234" />
+      <edge source="m" target="B" id="583" weight="623" />
+      <edge source="m" target="T" id="584" weight="869" />
+      <edge source="m" target="f" id="585" weight="623" />
+      <edge source="m" target="M" id="586" weight="78" />
+      <edge source="m" target="L" id="587" weight="948" />
+      <edge source="s" target="u" id="588" weight="2229" />
+      <edge source="s" target="y" id="589" weight="3558" />
+      <edge source="s" target="C" id="590" weight="1512" />
+      <edge source="s" target="P" id="591" weight="860" />
+      <edge source="s" target="R" id="592" weight="2803" />
+      <edge source="s" target="c" id="593" weight="1508" />
+      <edge source="s" target="d" id="594" weight="3447" />
+      <edge source="s" target="p" id="595" weight="2368" />
+      <edge source="s" target="s" id="596" weight="1060" />
+      <edge source="s" target="w" id="597" weight="1508" />
+      <edge source="s" target="z" id="598" weight="4563" />
+      <edge source="s" target="ł" id="599" weight="1508" />
+      <edge source="s" target="L" id="600" weight="1900" />
+      <edge source="s" target="B" id="601" weight="306" />
+      <edge source="s" target="T" id="602" weight="386" />
+      <edge source="s" target="f" id="603" weight="306" />
+      <edge source="s" target="M" id="604" weight="39" />
+      <edge source="u" target="y" id="605" weight="2705" />
+      <edge source="u" target="P" id="606" weight="1805" />
+      <edge source="u" target="R" id="607" weight="2602" />
+      <edge source="u" target="p" id="608" weight="2351" />
+      <edge source="u" target="C" id="609" weight="601" />
+      <edge source="u" target="c" id="610" weight="546" />
+      <edge source="u" target="d" id="611" weight="1288" />
+      <edge source="u" target="u" id="612" weight="453" />
+      <edge source="u" target="w" id="613" weight="546" />
+      <edge source="u" target="z" id="614" weight="1674" />
+      <edge source="u" target="ł" id="615" weight="546" />
+      <edge source="u" target="M" id="616" weight="36" />
+      <edge source="u" target="T" id="617" weight="168" />
+      <edge source="u" target="L" id="618" weight="706" />
+      <edge source="u" target="B" id="619" weight="15" />
+      <edge source="u" target="f" id="620" weight="15" />
+      <edge source="y" target="y" id="621" weight="882" />
+      <edge source="y" target="T" id="622" weight="2160" />
+      <edge source="y" target="C" id="623" weight="1002" />
+      <edge source="y" target="P" id="624" weight="701" />
+      <edge source="y" target="R" id="625" weight="1408" />
+      <edge source="y" target="c" id="626" weight="969" />
+      <edge source="y" target="d" id="627" weight="1643" />
+      <edge source="y" target="p" id="628" weight="1670" />
+      <edge source="y" target="w" id="629" weight="969" />
+      <edge source="y" target="z" id="630" weight="2971" />
+      <edge source="y" target="ł" id="631" weight="969" />
+      <edge source="y" target="B" id="632" weight="313" />
+      <edge source="y" target="f" id="633" weight="313" />
+      <edge source="y" target="M" id="634" weight="64" />
+      <edge source="y" target="L" id="635" weight="610" />
+      <edge source="T" target="B" id="636" weight="307" />
+      <edge source="T" target="f" id="637" weight="307" />
+      <edge source="T" target="M" id="638" weight="15" />
+      <edge source="T" target="R" id="639" weight="453" />
+      <edge source="T" target="d" id="640" weight="60" />
+      <edge source="T" target="z" id="641" weight="54" />
+      <edge source="T" target="C" id="642" weight="404" />
+      <edge source="T" target="L" id="643" weight="32" />
+      <edge source="T" target="P" id="644" weight="15" />
+      <edge source="T" target="c" id="645" weight="13" />
+      <edge source="T" target="p" id="646" weight="28" />
+      <edge source="T" target="w" id="647" weight="13" />
+      <edge source="T" target="ł" id="648" weight="13" />
+      <edge source="T" target="T" id="649" weight="5" />
+      <edge source="M" target="R" id="650" weight="360" />
+      <edge source="M" target="d" id="651" weight="368" />
+      <edge source="M" target="z" id="652" weight="384" />
+      <edge source="M" target="C" id="653" weight="13" />
+      <edge source="M" target="c" id="654" weight="12" />
+      <edge source="M" target="p" id="655" weight="15" />
+      <edge source="M" target="w" id="656" weight="12" />
+      <edge source="M" target="ł" id="657" weight="12" />
+      <edge source="M" target="L" id="658" weight="8" />
+      <edge source="M" target="P" id="659" weight="3" />
+      <edge source="R" target="d" id="660" weight="2660" />
+      <edge source="R" target="z" id="661" weight="1716" />
+      <edge source="R" target="P" id="662" weight="1708" />
+      <edge source="R" target="p" id="663" weight="2160" />
+      <edge source="R" target="C" id="664" weight="840" />
+      <edge source="R" target="c" id="665" weight="452" />
+      <edge source="R" target="w" id="666" weight="452" />
+      <edge source="R" target="ł" id="667" weight="452" />
+      <edge source="R" target="L" id="668" weight="1848" />
+      <edge source="R" target="R" id="669" weight="335" />
+      <edge source="R" target="B" id="670" weight="7" />
+      <edge source="R" target="f" id="671" weight="7" />
+      <edge source="d" target="z" id="672" weight="2924" />
+      <edge source="d" target="C" id="673" weight="853" />
+      <edge source="d" target="P" id="674" weight="586" />
+      <edge source="d" target="c" id="675" weight="852" />
+      <edge source="d" target="p" id="676" weight="1438" />
+      <edge source="d" target="w" id="677" weight="852" />
+      <edge source="d" target="ł" id="678" weight="852" />
+      <edge source="d" target="L" id="679" weight="1705" />
+      <edge source="d" target="d" id="680" weight="200" />
+      <edge source="d" target="B" id="681" weight="2" />
+      <edge source="d" target="f" id="682" weight="2" />
+      <edge source="z" target="C" id="683" weight="1993" />
+      <edge source="z" target="P" id="684" weight="783" />
+      <edge source="z" target="c" id="685" weight="1992" />
+      <edge source="z" target="p" id="686" weight="2775" />
+      <edge source="z" target="w" id="687" weight="1992" />
+      <edge source="z" target="z" id="688" weight="2016" />
+      <edge source="z" target="ł" id="689" weight="1992" />
+      <edge source="z" target="L" id="690" weight="548" />
+      <edge source="z" target="B" id="691" weight="3" />
+      <edge source="z" target="f" id="692" weight="3" />
+      <edge source="P" target="p" id="693" weight="1642" />
+      <edge source="P" target="C" id="694" weight="260" />
+      <edge source="P" target="c" id="695" weight="260" />
+      <edge source="P" target="w" id="696" weight="260" />
+      <edge source="P" target="ł" id="697" weight="260" />
+      <edge source="P" target="L" id="698" weight="323" />
+      <edge source="P" target="B" id="699" weight="2" />
+      <edge source="P" target="f" id="700" weight="2" />
+      <edge source="p" target="C" id="701" weight="920" />
+      <edge source="p" target="c" id="702" weight="920" />
+      <edge source="p" target="p" id="703" weight="260" />
+      <edge source="p" target="w" id="704" weight="920" />
+      <edge source="p" target="ł" id="705" weight="920" />
+      <edge source="p" target="L" id="706" weight="503" />
+      <edge source="p" target="B" id="707" weight="3" />
+      <edge source="p" target="f" id="708" weight="3" />
+      <edge source="C" target="c" id="709" weight="660" />
+      <edge source="C" target="w" id="710" weight="660" />
+      <edge source="C" target="ł" id="711" weight="660" />
+      <edge source="C" target="L" id="712" weight="180" />
+      <edge source="C" target="B" id="713" weight="5" />
+      <edge source="C" target="f" id="714" weight="5" />
+      <edge source="c" target="w" id="715" weight="660" />
+      <edge source="c" target="ł" id="716" weight="660" />
+      <edge source="c" target="L" id="717" weight="180" />
+      <edge source="c" target="B" id="718" weight="1" />
+      <edge source="c" target="f" id="719" weight="1" />
+      <edge source="w" target="ł" id="720" weight="660" />
+      <edge source="w" target="L" id="721" weight="180" />
+      <edge source="w" target="B" id="722" weight="1" />
+      <edge source="w" target="f" id="723" weight="1" />
+      <edge source="ł" target="L" id="724" weight="180" />
+      <edge source="ł" target="B" id="725" weight="1" />
+      <edge source="ł" target="f" id="726" weight="1" />
+      <edge source="L" target="B" id="727" weight="1" />
+      <edge source="L" target="f" id="728" weight="1" />
+      <edge source="B" target="f" id="729" weight="302" />
+    </edges>
+  </graph>
+</gexf>
